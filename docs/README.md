@@ -1,4 +1,6 @@
-<h1 align="center">Dev-Chrono</h1>
+dev-timer / [Exports](modules.md)
+
+<h1 align="center">Dev-Timer</h1>
 
 <div align="center" markdown="1">
 
@@ -15,7 +17,7 @@
 
 ---
 
-> ⚠️ This library is currently in Beta release. Expect changes.
+> ⚠️ This library is currently in Alpha release, it contains a lot of known bugs. Expect many breaking changes. (You should target a specific version)
 
 ## Table of Contents
 
@@ -52,7 +54,7 @@ HTML5
 
 JS ( index.js )
 ```js
-import { Timer } from "https://unpkg.com/dev-timer@0.4.0/ES/Timer.js";
+import { Timer } from "https://unpkg.com/dev-timer@0.3.0/ES/Timer.js";
 ```
 
 ## Usage

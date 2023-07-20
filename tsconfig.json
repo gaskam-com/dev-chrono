@@ -1,0 +1,13 @@
+{
+  "strict": true,
+  "compilerOptions": {
+    "lib": ["ES2021", "DOM"],
+    "module": "ESNext",
+    "target": "ES2018",
+    "declaration": true,
+    "outDir": "./ES",
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
